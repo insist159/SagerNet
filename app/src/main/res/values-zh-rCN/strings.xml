@@ -353,7 +353,6 @@
     <string name="direct_dns">直连 DNS</string>
     <string name="enable_dns_routing">启用 DNS 路由</string>
     <string name="dns_routing_message">使用直连 DNS 解析绕过路由中的 domains. 注意潜在的 DNS 泄漏</string>
-    <string name="fakedns_message">可能导致其他应用程序在代理停止后需要重新启动以重新连接到网络</string>
     <string name="dns_hosts">域名重写</string>
     <string name="apps">应用</string>
     <string name="select_apps">选择应用</string>
@@ -393,8 +392,6 @@
     <string name="traffic_stats">统计</string>
     <string name="traffic_active">活动</string>
     <string name="route_need_vpn">路由规则 %s 依赖 VPN 以生效，所以其已被忽略。</string>
-    <string name="foreground">前台</string>
-    <string name="foreground_status">前台状态</string>
     <string name="no_statistics">暂无数据</string>
     <string name="traffic_statistics_summary">可能增加电量使用</string>
     <string name="ssh_private_key_passphrase">私钥密码句</string>
@@ -426,4 +423,12 @@
     <string name="profile_traffic_statistics">配置流量统计</string>
     <string name="group_filter_owners">拥有者</string>
     <string name="group_filter_owners_nf">该订阅中没有拥有者</string>
+    <string name="nat_mapping_behaviour">NAT 匹配行为</string>
+    <string name="route_opt_block_analysis">阻塞分析</string>
+    <string name="recheck">重新检查</string>
+    <string name="stun_test">NAT 行为发现</string>
+    <string name="start">开始</string>
+    <string name="stun_attest_loading">这需要几分钟时间…</string>
+    <string name="probe_url">定制测试链接</string>
+    <string name="naive_insecure_concurrency">非安全并发</string>
 </resources>
